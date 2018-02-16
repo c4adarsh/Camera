@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="requires_camera">This requires front camera for signup</string>
+</resources>
